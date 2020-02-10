@@ -1,0 +1,9 @@
+### Jekyll ###
+.jekyll-cache
+_site
+Gemfile.lock
+
+### Gulp ###
+#
+### MacOS ###
+*.DS_Store
